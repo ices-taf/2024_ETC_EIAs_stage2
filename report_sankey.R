@@ -7,10 +7,7 @@ library(RColorBrewer)
 library(htmlwidgets)
 library(webshot)
 
-mkdir("report")
-
 # Load df saved after 00_preprocess.R script
-data <- readRDS("data/data.rds")
 unique(data$Sector)
 unique(data$Pressure)
 
@@ -88,7 +85,6 @@ p
 
 # save the widget
 saveWidget(p, file = "sankey.html", selfcontained = TRUE)
-cp("sankey.html", "report", move = TRUE)
 
 # save the widget
-webshot("report/sankey.html", "report/sankey.png", vwidth = 900, vheight = 1000)
+webshot("sankey.html", "sankey.png", vwidth = 900, vheight = 1000)
