@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# TAF
+/boot/data/
+/data/
+/report/
