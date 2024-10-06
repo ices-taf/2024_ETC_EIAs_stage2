@@ -1,4 +1,5 @@
 library(icesTAF)
+library(glue)
 mkdir("data")
 
 source("utilities_pressures.R")
@@ -6,13 +7,13 @@ source("utilities_pressures.R")
 # read in data
 
 files <- c(
-  "boot/data/google_sheets/Fisheries-NEA.csv",
-  "boot/data/google_sheets/Fisheries-Med.csv",
-  "boot/data/google_sheets/Aquaculture-NEA.csv",
-  "boot/data/google_sheets/Aquaculture-Med.csv"
+  "Fisheries-NEA",
+  "Fisheries-Med",
+  "Aquaculture-NEA",
+  "Aquaculture-Med"
 )
 
-all_data <- lapply(files, calc_scores)
+all_data <- sapply(files, function(x) calc_scores(glue("boot/data/google_sheets/{x}.csv")), simplify = FALSE)
 
 # do we include a confidence measure.... ?
 
