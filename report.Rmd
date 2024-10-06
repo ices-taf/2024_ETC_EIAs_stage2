@@ -1,0 +1,32 @@
+---
+title: "Overview of the 2024 ETC EIAs"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+```
+
+## Fisheries NEA
+```{r}
+sankeys[['Fisheries-NEA']]
+```
+
+## Fisheries Med
+
+```{r}
+sankeys[['Fisheries-Med']]
+```
+
+## Aquaculture NEA
+
+```{r}
+sankeys[['Aquaculture-NEA']]
+```
+
+
+## Aquaculture Med
+
+```{r}
+sankeys[['Aquaculture-Med']]
+```
