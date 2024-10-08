@@ -8,25 +8,25 @@ output: html_document
 ```
 
 ## Fisheries NEA
-```{r}
+```{r, out.width="100%"}
 sankeys[['Fisheries-NEA']]
 ```
 
 ## Fisheries Med
 
-```{r}
+```{r, out.width="100%"}
 sankeys[['Fisheries-Med']]
 ```
 
 ## Aquaculture NEA
 
-```{r}
+```{r, out.width="100%"}
 sankeys[['Aquaculture-NEA']]
 ```
 
 
 ## Aquaculture Med
 
-```{r}
+```{r, out.width="100%"}
 sankeys[['Aquaculture-Med']]
 ```

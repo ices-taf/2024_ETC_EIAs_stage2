@@ -64,7 +64,8 @@ pal2 <- unlist(mapply(brewer.pal, n - nrow(pal), "Dark2"))
 pal <- rbind(pal, pal2)
 
 
-pal <- gplots::col2hex(c("red", "blue", "green", "purple"))
+# pal <- gplots::col2hex(c("red", "blue", "green", "purple"))
+pal <- c("#ef476f", "#ffd166", "#06d6a0", "#118ab2","#073b4c")
 pal <- paste(shQuote(pal), collapse = ", ")
 dom <- unique(links$linkgroup)
 dom <- paste(shQuote(dom), collapse = ", ")
@@ -77,7 +78,7 @@ my_color <-
 p <- sankeyNetwork(
   Links = links, Nodes = nodes, Source = "IDsource", Target = "IDtarget",
   Value = "value", NodeID = "name",
-  fontSize = 20,
+  fontSize = 17,
   colourScale = my_color,
   LinkGroup = "linkgroup", NodeGroup = "group", iterations = 0
 )
@@ -87,4 +88,4 @@ p
 saveWidget(p, file = "sankey.html", selfcontained = TRUE)
 
 # save the widget
-webshot("sankey.html", "sankey.png", vwidth = 900, vheight = 1000)
+webshot("sankey.html", "sankey.png", vwidth = 900, vheight = 1500)
