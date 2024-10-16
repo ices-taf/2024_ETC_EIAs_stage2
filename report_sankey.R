@@ -15,7 +15,7 @@ unique(data$Pressure)
 data$id <- as.character(row.names(data))
 
 # Filter low values for sankey
-data <- data |> filter(ImpactRisk > 0.01)
+data <- data |> filter(ImpactRisk > 0.001)
 
 links <-
   data |>
@@ -65,7 +65,7 @@ pal <- rbind(pal, pal2)
 
 
 # pal <- gplots::col2hex(c("red", "blue", "green", "purple"))
-pal <- c("#ef476f", "#ffd166", "#06d6a0", "#118ab2","#073b4c")
+pal <- c("#9e0142", "#f46d43", "#fdae61",  "#abdda4", "#66c2a5", "#3288bd", "#5e4fa2")
 pal <- paste(shQuote(pal), collapse = ", ")
 dom <- unique(links$linkgroup)
 dom <- paste(shQuote(dom), collapse = ", ")
@@ -78,7 +78,7 @@ my_color <-
 p <- sankeyNetwork(
   Links = links, Nodes = nodes, Source = "IDsource", Target = "IDtarget",
   Value = "value", NodeID = "name",
-  fontSize = 17,
+  fontSize = 22, units = "Impact Risk",
   colourScale = my_color,
   LinkGroup = "linkgroup", NodeGroup = "group", iterations = 0
 )
@@ -88,4 +88,4 @@ p
 saveWidget(p, file = "sankey.html", selfcontained = TRUE)
 
 # save the widget
-webshot("sankey.html", "sankey.png", vwidth = 900, vheight = 1500)
+webshot("sankey.html", "sankey.png", vwidth = 1200, vheight = 1200)

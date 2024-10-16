@@ -10,9 +10,9 @@ calc_scores <- function(file) {
 
   ## calculate the scores (include as input data)
   scores <- list(
-    Overlap = c(WE = 1, WP = 0.67, L = 0.33, S = 0.03, E = 0.01),
-    Frequency = c(P = 1, C = 0.67, O = 0.33, R = 0.08),
-    DoI = c(A = 1, C = 0.2, L = 0.05),
+    Overlap = c(WE = 1, WP = 0.67, L = 0.33, S = 0.03, E = 0.01, NO = 0),
+    Frequency = c(P = 1, C = 0.67, O = 0.33, R = 0.08, NO = 0),
+    DoI = c(A = 1, C = 0.2, L = 0.05, NO = 0),
     confidence =
       c(
         "1a" = "No Specific Expertise", "1b" = "Specific Expertise",
