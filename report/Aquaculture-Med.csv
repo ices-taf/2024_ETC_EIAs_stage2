@@ -1,0 +1,132 @@
+"Sector","Pressure","Ecological.Characteristic","Overlap","Frequency","DoI","ImpactRisk"
+"High trophic species: sea based coastal (pens)","Substrate Loss","Benthic Habitat (& assoc. biota)","S","P","L",0.0015
+"High trophic species: sea based offshore (pens)","Substrate Loss","Benthic Habitat (& assoc. biota)","S","P","L",0.0015
+"Low trophic species: sea based long lines, raft","Substrate Loss","Benthic Habitat (& assoc. biota)","S","P","L",0.0015
+"Low trophic species: Sea-based on bottom","Substrate Loss","Benthic Habitat (& assoc. biota)","S","P","L",0.0015
+"Polyculture sea based coastal","Substrate Loss","Benthic Habitat (& assoc. biota)","S","P","L",0.0015
+"Polyculture sea based offshore","Substrate Loss","Benthic Habitat (& assoc. biota)","S","P","L",0.0015
+"Algae sea based","Substrate Loss","Benthic Habitat (& assoc. biota)","S","P","L",0.0015
+"High trophic species: sea based coastal (pens)","Siltation/ Smothering","Benthic Habitat (& assoc. biota)","S","P","C",0.006
+"High trophic species: sea based offshore (pens)","Siltation/ Smothering","Benthic Habitat (& assoc. biota)","S","P","L",0.0015
+"Low trophic species: sea based long lines, raft","Siltation/ Smothering","Benthic Habitat (& assoc. biota)","S","P","L",0.0015
+"Polyculture sea based coastal","Siltation/ Smothering","Benthic Habitat (& assoc. biota)","S","P","C",0.006
+"Polyculture sea based offshore","Siltation/ Smothering","Benthic Habitat (& assoc. biota)","S","P","L",0.0015
+"Algae sea based","Siltation/ Smothering","Benthic Habitat (& assoc. biota)","S","P","L",0.0015
+"Low trophic species: Sea-based on bottom","Abrasion","Benthic Habitat (& assoc. biota)","S","C","C",0.00402
+"High trophic species: sea based coastal (pens)","Noise","Benthic Habitat (& assoc. biota)","S","C","L",0.001005
+"High trophic species: sea based coastal (pens)","Noise","Marine Mammals","S","C","L",0.001005
+"High trophic species: sea based coastal (pens)","Noise","Fish","S","C","L",0.001005
+"High trophic species: sea based coastal (pens)","Noise","Reptiles","S","C","L",0.001005
+"High trophic species: sea based coastal (pens)","Noise","Cephalopods","S","C","L",0.001005
+"High trophic species: sea based offshore (pens)","Noise","Benthic Habitat (& assoc. biota)","S","C","L",0.001005
+"High trophic species: sea based offshore (pens)","Noise","Marine Mammals","S","C","L",0.001005
+"High trophic species: sea based offshore (pens)","Noise","Fish","S","C","L",0.001005
+"High trophic species: sea based offshore (pens)","Noise","Reptiles","S","C","L",0.001005
+"High trophic species: sea based offshore (pens)","Noise","Cephalopods","S","C","L",0.001005
+"Low trophic species: Sea-based on bottom","Noise","Benthic Habitat (& assoc. biota)","S","C","L",0.001005
+"Low trophic species: Sea-based on bottom","Noise","Fish","S","C","L",0.001005
+"Low trophic species: Sea-based on bottom","Noise","Seabirds","S","C","L",0.001005
+"Low trophic species: Sea-based on bottom","Noise","Cephalopods","S","C","L",0.001005
+"Polyculture sea based coastal","Noise","Benthic Habitat (& assoc. biota)","S","C","L",0.001005
+"Polyculture sea based coastal","Noise","Marine Mammals","S","C","L",0.001005
+"Polyculture sea based coastal","Noise","Fish","S","C","L",0.001005
+"Polyculture sea based coastal","Noise","Reptiles","S","C","L",0.001005
+"Polyculture sea based coastal","Noise","Seabirds","S","C","L",0.001005
+"Polyculture sea based coastal","Noise","Cephalopods","S","C","L",0.001005
+"Polyculture sea based offshore","Noise","Marine Mammals","S","C","L",0.001005
+"Polyculture sea based offshore","Noise","Fish","S","C","L",0.001005
+"Polyculture sea based offshore","Noise","Reptiles","S","C","L",0.001005
+"Polyculture sea based offshore","Noise","Cephalopods","S","C","L",0.001005
+"High trophic species: sea based coastal (pens)","Marine Litter","Benthic Habitat (& assoc. biota)","WP","C","L",0.022445
+"High trophic species: sea based coastal (pens)","Marine Litter","Pelagic Habitats (& assoc. biota)","WP","C","L",0.022445
+"High trophic species: sea based coastal (pens)","Marine Litter","Marine Mammals","WP","C","L",0.022445
+"High trophic species: sea based coastal (pens)","Marine Litter","Fish","WP","C","L",0.022445
+"High trophic species: sea based coastal (pens)","Marine Litter","Reptiles","WP","C","L",0.022445
+"High trophic species: sea based coastal (pens)","Marine Litter","Seabirds","WP","C","L",0.022445
+"High trophic species: sea based coastal (pens)","Marine Litter","Cephalopods","WP","C","L",0.022445
+"High trophic species: sea based coastal (pens)","Marine Litter","Food Web (D4)","WP","C","L",0.022445
+"High trophic species: sea based offshore (pens)","Marine Litter","Benthic Habitat (& assoc. biota)","WP","C","L",0.022445
+"High trophic species: sea based offshore (pens)","Marine Litter","Pelagic Habitats (& assoc. biota)","WP","C","L",0.022445
+"High trophic species: sea based offshore (pens)","Marine Litter","Marine Mammals","WP","C","L",0.022445
+"High trophic species: sea based offshore (pens)","Marine Litter","Fish","WP","C","L",0.022445
+"High trophic species: sea based offshore (pens)","Marine Litter","Reptiles","WP","C","L",0.022445
+"High trophic species: sea based offshore (pens)","Marine Litter","Seabirds","WP","C","L",0.022445
+"High trophic species: sea based offshore (pens)","Marine Litter","Cephalopods","WP","C","L",0.022445
+"High trophic species: sea based offshore (pens)","Marine Litter","Food Web (D4)","WP","C","L",0.022445
+"Low trophic species: sea based long lines, raft","Marine Litter","Benthic Habitat (& assoc. biota)","WP","C","L",0.022445
+"Low trophic species: sea based long lines, raft","Marine Litter","Pelagic Habitats (& assoc. biota)","WP","C","L",0.022445
+"Low trophic species: sea based long lines, raft","Marine Litter","Marine Mammals","WP","C","L",0.022445
+"Low trophic species: sea based long lines, raft","Marine Litter","Fish","WP","C","L",0.022445
+"Low trophic species: sea based long lines, raft","Marine Litter","Reptiles","WP","C","A",0.4489
+"Low trophic species: sea based long lines, raft","Marine Litter","Seabirds","WP","C","A",0.4489
+"Low trophic species: sea based long lines, raft","Marine Litter","Cephalopods","WP","C","L",0.022445
+"Low trophic species: sea based long lines, raft","Marine Litter","Food Web (D4)","WP","C","L",0.022445
+"Low trophic species: Sea-based on bottom","Marine Litter","Benthic Habitat (& assoc. biota)","WP","C","L",0.022445
+"Low trophic species: Sea-based on bottom","Marine Litter","Fish","WP","C","L",0.022445
+"Low trophic species: Sea-based on bottom","Marine Litter","Cephalopods","WP","C","L",0.022445
+"Low trophic species: Sea-based on bottom","Marine Litter","Food Web (D4)","WP","C","L",0.022445
+"Polyculture sea based coastal","Marine Litter","Benthic Habitat (& assoc. biota)","WP","C","L",0.022445
+"Polyculture sea based coastal","Marine Litter","Pelagic Habitats (& assoc. biota)","WP","C","L",0.022445
+"Polyculture sea based coastal","Marine Litter","Marine Mammals","WP","C","L",0.022445
+"Polyculture sea based coastal","Marine Litter","Fish","WP","C","L",0.022445
+"Polyculture sea based coastal","Marine Litter","Reptiles","WP","C","A",0.4489
+"Polyculture sea based coastal","Marine Litter","Seabirds","WP","C","A",0.4489
+"Polyculture sea based coastal","Marine Litter","Cephalopods","WP","C","L",0.022445
+"Polyculture sea based coastal","Marine Litter","Food Web (D4)","WP","C","L",0.022445
+"Polyculture sea based offshore","Marine Litter","Benthic Habitat (& assoc. biota)","WP","C","L",0.022445
+"Polyculture sea based offshore","Marine Litter","Pelagic Habitats (& assoc. biota)","WP","C","L",0.022445
+"Polyculture sea based offshore","Marine Litter","Marine Mammals","WP","C","L",0.022445
+"Polyculture sea based offshore","Marine Litter","Fish","WP","C","L",0.022445
+"Polyculture sea based offshore","Marine Litter","Reptiles","WP","C","A",0.4489
+"Polyculture sea based offshore","Marine Litter","Seabirds","WP","C","A",0.4489
+"Polyculture sea based offshore","Marine Litter","Cephalopods","WP","C","L",0.022445
+"Polyculture sea based offshore","Marine Litter","Food Web (D4)","WP","C","L",0.022445
+"Algae sea based","Marine Litter","Benthic Habitat (& assoc. biota)","WP","C","L",0.022445
+"Algae sea based","Marine Litter","Pelagic Habitats (& assoc. biota)","WP","C","L",0.022445
+"Algae sea based","Marine Litter","Marine Mammals","WP","C","L",0.022445
+"Algae sea based","Marine Litter","Fish","WP","C","L",0.022445
+"Algae sea based","Marine Litter","Reptiles","WP","C","L",0.022445
+"Algae sea based","Marine Litter","Seabirds","WP","C","L",0.022445
+"Algae sea based","Marine Litter","Cephalopods","WP","C","L",0.022445
+"Algae sea based","Marine Litter","Food Web (D4)","WP","C","L",0.022445
+"High trophic species: sea based coastal (pens)","Nutrient and organic enrichment","Benthic Habitat (& assoc. biota)","S","P","C",0.006
+"High trophic species: sea based coastal (pens)","Nutrient and organic enrichment","Pelagic Habitats (& assoc. biota)","S","P","L",0.0015
+"High trophic species: sea based coastal (pens)","Nutrient and organic enrichment","Fish","S","P","L",0.0015
+"High trophic species: sea based offshore (pens)","Nutrient and organic enrichment","Benthic Habitat (& assoc. biota)","S","P","L",0.0015
+"High trophic species: sea based offshore (pens)","Nutrient and organic enrichment","Pelagic Habitats (& assoc. biota)","S","P","L",0.0015
+"High trophic species: sea based offshore (pens)","Nutrient and organic enrichment","Fish","S","P","L",0.0015
+"Low trophic species: sea based long lines, raft","Nutrient and organic enrichment","Benthic Habitat (& assoc. biota)","S","P","L",0.0015
+"Low trophic species: sea based long lines, raft","Nutrient and organic enrichment","Pelagic Habitats (& assoc. biota)","S","P","L",0.0015
+"Low trophic species: sea based long lines, raft","Nutrient and organic enrichment","Fish","S","P","L",0.0015
+"Low trophic species: Sea-based on bottom","Nutrient and organic enrichment","Benthic Habitat (& assoc. biota)","S","P","L",0.0015
+"Low trophic species: Sea-based on bottom","Nutrient and organic enrichment","Pelagic Habitats (& assoc. biota)","S","P","L",0.0015
+"Low trophic species: Sea-based on bottom","Nutrient and organic enrichment","Fish","S","P","L",0.0015
+"Polyculture sea based coastal","Nutrient and organic enrichment","Benthic Habitat (& assoc. biota)","S","P","C",0.006
+"Polyculture sea based coastal","Nutrient and organic enrichment","Pelagic Habitats (& assoc. biota)","S","P","L",0.0015
+"Polyculture sea based coastal","Nutrient and organic enrichment","Fish","S","P","L",0.0015
+"Polyculture sea based offshore","Nutrient and organic enrichment","Benthic Habitat (& assoc. biota)","S","P","L",0.0015
+"Polyculture sea based offshore","Nutrient and organic enrichment","Pelagic Habitats (& assoc. biota)","S","P","L",0.0015
+"Polyculture sea based offshore","Nutrient and organic enrichment","Fish","S","P","L",0.0015
+"Low trophic species: sea based long lines, raft","Invasive species","Benthic Habitat (& assoc. biota)","L","R","L",0.00132
+"Low trophic species: sea based long lines, raft","Invasive species","Pelagic Habitats (& assoc. biota)","L","R","L",0.00132
+"Low trophic species: Sea-based on bottom","Invasive species","Benthic Habitat (& assoc. biota)","L","R","L",0.00132
+"Low trophic species: Sea-based on bottom","Invasive species","Pelagic Habitats (& assoc. biota)","L","R","L",0.00132
+"Polyculture sea based coastal","Invasive species","Benthic Habitat (& assoc. biota)","L","R","L",0.00132
+"Polyculture sea based coastal","Invasive species","Pelagic Habitats (& assoc. biota)","L","R","L",0.00132
+"Polyculture sea based offshore","Invasive species","Benthic Habitat (& assoc. biota)","L","R","L",0.00132
+"Polyculture sea based offshore","Invasive species","Pelagic Habitats (& assoc. biota)","L","R","L",0.00132
+"Algae sea based","Invasive species","Benthic Habitat (& assoc. biota)","L","R","L",0.00132
+"Algae sea based","Invasive species","Pelagic Habitats (& assoc. biota)","L","R","L",0.00132
+"Algae sea based","Invasive species","Fish","L","R","L",0.00132
+"Low trophic species: sea based long lines, raft","Species Extraction","Pelagic Habitats (& assoc. biota)","S","P","L",0.0015
+"Low trophic species: sea based long lines, raft","Species Extraction","Food Web (D4)","S","P","L",0.0015
+"Low trophic species: Sea-based on bottom","Species Extraction","Pelagic Habitats (& assoc. biota)","S","P","L",0.0015
+"Low trophic species: Sea-based on bottom","Species Extraction","Food Web (D4)","S","P","L",0.0015
+"Polyculture sea based coastal","Species Extraction","Pelagic Habitats (& assoc. biota)","S","P","C",0.006
+"Polyculture sea based coastal","Species Extraction","Food Web (D4)","S","P","L",0.0015
+"Polyculture sea based offshore","Species Extraction","Pelagic Habitats (& assoc. biota)","S","P","C",0.006
+"Polyculture sea based offshore","Species Extraction","Food Web (D4)","S","P","L",0.0015
+"High trophic species: sea based coastal (pens)","Interaction with wild organisms","Fish","L","R","L",0.00132
+"High trophic species: sea based offshore (pens)","Interaction with wild organisms","Fish","L","R","L",0.00132
+"Polyculture sea based coastal","Interaction with wild organisms","Fish","L","R","L",0.00132
+"Polyculture sea based offshore","Interaction with wild organisms","Fish","L","R","L",0.00132
