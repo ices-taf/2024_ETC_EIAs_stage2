@@ -4,6 +4,7 @@
 ## After:
 
 library(icesTAF)
+library(glue)
 
 mkdir("report")
 
@@ -12,6 +13,7 @@ all_data <- readRDS("data/all_data.rds")
 
 sankeys <- list()
 
+# tab <- "Fisheries-NEA"
 for (tab in names(all_data)) {
   mkdir(glue("report/{tab}"))
   data <- all_data[[tab]]

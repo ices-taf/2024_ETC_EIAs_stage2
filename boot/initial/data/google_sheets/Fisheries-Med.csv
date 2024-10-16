@@ -1,0 +1,345 @@
+"sector","pressure","ecoChar","overlap","frequency","DoI","confidence","comments","Overlap.Score","Frequency.Score","DoI.Score","Impact.Risk.Score","IR.relative.contribution"
+"Small vessels - active demersal","Siltation/Smothering","Benthic Habitat (& assoc. biota): VMEs","S","R","C",1,NA,0.03,0.08,0.2,0.00048,0.00442136329052594
+"Small vessels - active demersal","Siltation/Smothering","Benthic Habitat (& assoc. biota): non-VMEs","WP","C","C",2,NA,0.67,0.67,0.2,0.08978,0.826979158798791
+"Small vessels - active demersal","Siltation/Smothering","Fish","NO",NA,NA,1,NA,0,0,0,0,0
+"Small vessels - active demersal","Siltation/Smothering","Elasmobranchs","NO",NA,NA,1,NA,0,0,0,0,0
+"Small vessels - active demersal","Siltation/Smothering","Cephalopods","NO",NA,NA,1,NA,0,0,0,0,0
+"Small vessels - active demersal","Siltation/Smothering","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Siltation/Smothering","Benthic Habitat (& assoc. biota): VMEs","S","R","C",1,NA,0.03,0.08,0.2,0.00048,0.00442136329052594
+"Large vessels - active demersal","Siltation/Smothering","Benthic Habitat (& assoc. biota): non-VMEs","WP","C","C",2,NA,0.67,0.67,0.2,0.08978,0.826979158798791
+"Large vessels - active demersal","Siltation/Smothering","Fish","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Siltation/Smothering","Elasmobranchs","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Siltation/Smothering","Cephalopods","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Siltation/Smothering","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"passive pelagic","Abrasion","Benthic Habitat (& assoc. biota): VMEs","NO",NA,NA,1,NA,0,0,0,0,0
+"passive pelagic","Abrasion","Benthic Habitat (& assoc. biota): non-VMEs","S","R","A",2,NA,0.03,0.08,1,0.0024,0.0221068164526297
+"passive pelagic","Abrasion","Fish","NO",NA,NA,1,NA,0,0,0,0,0
+"passive pelagic","Abrasion","Elasmobranchs","NO",NA,NA,1,NA,0,0,0,0,0
+"passive pelagic","Abrasion","Cephalopods","NO",NA,NA,1,NA,0,0,0,0,0
+"passive pelagic","Abrasion","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"passive demersal","Abrasion","Benthic Habitat (& assoc. biota): VMEs","S","R","A",1,"incomplete information on VME habitat => potential fishing. Could be NO, E or S ?, also reports (ie NEAFC) of incursions",0.03,0.08,1,0.0024,0.0221068164526297
+"passive demersal","Abrasion","Benthic Habitat (& assoc. biota): non-VMEs","L","C","C",2,NA,0.33,0.67,0.2,0.04422,0.407318093139703
+"passive demersal","Abrasion","Fish","L","C","C",1,NA,0.33,0.67,0.2,0.04422,0.407318093139703
+"passive demersal","Abrasion","Elasmobranchs","L","C","C",1,NA,0.33,0.67,0.2,0.04422,0.407318093139703
+"passive demersal","Abrasion","Cephalopods","L","C","C",1,NA,0.33,0.67,0.2,0.04422,0.407318093139703
+"passive demersal","Abrasion","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"Small vessels - pelagic trawlers","Abrasion","Benthic Habitat (& assoc. biota): VMEs","NO",NA,NA,1,NA,0,0,0,0,0
+"Small vessels - pelagic trawlers","Abrasion","Benthic Habitat (& assoc. biota): non-VMEs","S","R","A",2,NA,0.03,0.08,1,0.0024,0.0221068164526297
+"Small vessels - pelagic trawlers","Abrasion","Fish","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"Small vessels - pelagic trawlers","Abrasion","Elasmobranchs","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"Small vessels - pelagic trawlers","Abrasion","Cephalopods","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"Small vessels - pelagic trawlers","Abrasion","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"Small vessels - active demersal","Abrasion","Benthic Habitat (& assoc. biota): VMEs","S","R","A",1,"incomplete information on VME habitat => potential fishing. Could be NO, E or S ?, also reports (ie NEAFC) of incursions",0.03,0.08,1,0.0024,0.0221068164526297
+"Small vessels - active demersal","Abrasion","Benthic Habitat (& assoc. biota): non-VMEs","L","C","C",2,NA,0.33,0.67,0.2,0.04422,0.407318093139703
+"Small vessels - active demersal","Abrasion","Fish","L","C","C",1,NA,0.33,0.67,0.2,0.04422,0.407318093139703
+"Small vessels - active demersal","Abrasion","Elasmobranchs","L","C","C",1,NA,0.33,0.67,0.2,0.04422,0.407318093139703
+"Small vessels - active demersal","Abrasion","Cephalopods","L","C","C",1,NA,0.33,0.67,0.2,0.04422,0.407318093139703
+"Small vessels - active demersal","Abrasion","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - pelagic trawlers","Abrasion","Benthic Habitat (& assoc. biota): VMEs","NO",NA,NA,1,"incomplete information on VME habitat => potential fishing. Could be NO, E or S ?, also reports (ie NEAFC) of incursions",0,0,0,0,0
+"Large vessels - pelagic trawlers","Abrasion","Benthic Habitat (& assoc. biota): non-VMEs","S","R","C",2,NA,0.03,0.08,0.2,0.00048,0.00442136329052594
+"Large vessels - pelagic trawlers","Abrasion","Fish","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"Large vessels - pelagic trawlers","Abrasion","Elasmobranchs","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"Large vessels - pelagic trawlers","Abrasion","Cephalopods","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"Large vessels - pelagic trawlers","Abrasion","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Abrasion","Benthic Habitat (& assoc. biota): VMEs","S","R","A",1,"incomplete information on VME habitat => potential fishing. Could be NO, E or S ?, also reports (ie NEAFC) of incursions",0.03,0.08,1,0.0024,0.0221068164526297
+"Large vessels - active demersal","Abrasion","Benthic Habitat (& assoc. biota): non-VMEs","WP","P","A",2,NA,0.67,1,1,0.67,6.17148625969247
+"Large vessels - active demersal","Abrasion","Fish","WP","P","C",1,NA,0.67,1,0.2,0.134,1.23429725193849
+"Large vessels - active demersal","Abrasion","Elasmobranchs","WP","P","C",1,NA,0.67,1,0.2,0.134,1.23429725193849
+"Large vessels - active demersal","Abrasion","Cephalopods","WP","P","C",1,NA,0.67,1,0.2,0.134,1.23429725193849
+"Large vessels - active demersal","Abrasion","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"passive pelagic","Noise","Pelagic Habitats (& assoc. biota)","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"passive pelagic","Noise","Marine Mammals","S","C","C",2,NA,0.03,0.67,0.2,0.00402,0.0370289175581548
+"passive pelagic","Noise","Fish","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"passive pelagic","Noise","Elasmobranchs","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"passive pelagic","Noise","Reptiles","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"passive pelagic","Noise","Seabirds","NO",NA,NA,1,NA,0,0,0,0,0
+"passive pelagic","Noise","Cephalopods","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"passive pelagic","Noise","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"passive demersal","Noise","Pelagic Habitats (& assoc. biota)","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"passive demersal","Noise","Marine Mammals","S","C","C",2,NA,0.03,0.67,0.2,0.00402,0.0370289175581548
+"passive demersal","Noise","Fish","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"passive demersal","Noise","Elasmobranchs","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"passive demersal","Noise","Reptiles","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"passive demersal","Noise","Seabirds","NO",NA,NA,1,NA,0,0,0,0,0
+"passive demersal","Noise","Cephalopods","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"passive demersal","Noise","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"Small vessels - pelagic trawlers","Noise","Pelagic Habitats (& assoc. biota)","NO",NA,NA,1,NA,0,0,0,0,0
+"Small vessels - pelagic trawlers","Noise","Marine Mammals","S","C","C",2,NA,0.03,0.67,0.2,0.00402,0.0370289175581548
+"Small vessels - pelagic trawlers","Noise","Fish","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Small vessels - pelagic trawlers","Noise","Elasmobranchs","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Small vessels - pelagic trawlers","Noise","Reptiles","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Small vessels - pelagic trawlers","Noise","Seabirds","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Small vessels - pelagic trawlers","Noise","Cephalopods","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Small vessels - pelagic trawlers","Noise","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"Small vessels - active demersal","Noise","Pelagic Habitats (& assoc. biota)","NO",NA,NA,1,NA,0,0,0,0,0
+"Small vessels - active demersal","Noise","Marine Mammals","S","C","C",2,NA,0.03,0.67,0.2,0.00402,0.0370289175581548
+"Small vessels - active demersal","Noise","Fish","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Small vessels - active demersal","Noise","Elasmobranchs","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Small vessels - active demersal","Noise","Reptiles","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Small vessels - active demersal","Noise","Seabirds","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Small vessels - active demersal","Noise","Cephalopods","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Small vessels - active demersal","Noise","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - pelagic trawlers","Noise","Pelagic Habitats (& assoc. biota)","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - pelagic trawlers","Noise","Marine Mammals","S","C","C",2,NA,0.03,0.67,0.2,0.00402,0.0370289175581548
+"Large vessels - pelagic trawlers","Noise","Fish","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Large vessels - pelagic trawlers","Noise","Elasmobranchs","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Large vessels - pelagic trawlers","Noise","Reptiles","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Large vessels - pelagic trawlers","Noise","Seabirds","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Large vessels - pelagic trawlers","Noise","Cephalopods","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Large vessels - pelagic trawlers","Noise","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Noise","Pelagic Habitats (& assoc. biota)","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Noise","Marine Mammals","S","C","C",2,NA,0.03,0.67,0.2,0.00402,0.0370289175581548
+"Large vessels - active demersal","Noise","Fish","S","C","C",1,NA,0.03,0.67,0.2,0.00402,0.0370289175581548
+"Large vessels - active demersal","Noise","Elasmobranchs","S","C","C",1,NA,0.03,0.67,0.2,0.00402,0.0370289175581548
+"Large vessels - active demersal","Noise","Reptiles","S","C","C",1,NA,0.03,0.67,0.2,0.00402,0.0370289175581548
+"Large vessels - active demersal","Noise","Seabirds","S","C","C",1,NA,0.03,0.67,0.2,0.00402,0.0370289175581548
+"Large vessels - active demersal","Noise","Cephalopods","S","C","C",1,NA,0.03,0.67,0.2,0.00402,0.0370289175581548
+"Large vessels - active demersal","Noise","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - reduction fisheries","Noise","Pelagic Habitats (& assoc. biota)","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Large vessels - reduction fisheries","Noise","Marine Mammals","S","C","C",2,NA,0.03,0.67,0.2,0.00402,0.0370289175581548
+"Large vessels - reduction fisheries","Noise","Fish","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Large vessels - reduction fisheries","Noise","Elasmobranchs","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Large vessels - reduction fisheries","Noise","Reptiles","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Large vessels - reduction fisheries","Noise","Seabirds","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Large vessels - reduction fisheries","Noise","Cephalopods","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Large vessels - reduction fisheries","Noise","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"passive pelagic","Marine Litter","Benthic Habitat (& assoc. biota): VMEs","E","O","C",1,NA,0.01,0.33,0.2,0.00066,0.00607937452447318
+"passive pelagic","Marine Litter","Benthic Habitat (& assoc. biota): non-VMEs","L","O","C",2,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"passive pelagic","Marine Litter","Pelagic Habitats (& assoc. biota)","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"passive pelagic","Marine Litter","Marine Mammals","L","O","A",1,NA,0.33,0.33,1,0.1089,1.00309679653807
+"passive pelagic","Marine Litter","Fish","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"passive pelagic","Marine Litter","Elasmobranchs","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"passive pelagic","Marine Litter","Reptiles","L","O","A",1,NA,0.33,0.33,1,0.1089,1.00309679653807
+"passive pelagic","Marine Litter","Seabirds","L","O","A",1,NA,0.33,0.33,1,0.1089,1.00309679653807
+"passive pelagic","Marine Litter","Cephalopods","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"passive pelagic","Marine Litter","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"passive demersal","Marine Litter","Benthic Habitat (& assoc. biota): VMEs","S","O","C",1,NA,0.03,0.33,0.2,0.00198,0.0182381235734195
+"passive demersal","Marine Litter","Benthic Habitat (& assoc. biota): non-VMEs","L","O","C",2,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"passive demersal","Marine Litter","Pelagic Habitats (& assoc. biota)","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"passive demersal","Marine Litter","Marine Mammals","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"passive demersal","Marine Litter","Fish","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"passive demersal","Marine Litter","Elasmobranchs","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"passive demersal","Marine Litter","Reptiles","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"passive demersal","Marine Litter","Seabirds","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"passive demersal","Marine Litter","Cephalopods","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"passive demersal","Marine Litter","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"Small vessels - pelagic trawlers","Marine Litter","Benthic Habitat (& assoc. biota): VMEs","E","O","C",1,NA,0.01,0.33,0.2,0.00066,0.00607937452447318
+"Small vessels - pelagic trawlers","Marine Litter","Benthic Habitat (& assoc. biota): non-VMEs","S","O","C",2,NA,0.03,0.33,0.2,0.00198,0.0182381235734195
+"Small vessels - pelagic trawlers","Marine Litter","Pelagic Habitats (& assoc. biota)","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Small vessels - pelagic trawlers","Marine Litter","Marine Mammals","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"Small vessels - pelagic trawlers","Marine Litter","Fish","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Small vessels - pelagic trawlers","Marine Litter","Elasmobranchs","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Small vessels - pelagic trawlers","Marine Litter","Reptiles","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"Small vessels - pelagic trawlers","Marine Litter","Seabirds","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"Small vessels - pelagic trawlers","Marine Litter","Cephalopods","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Small vessels - pelagic trawlers","Marine Litter","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"Small vessels - active demersal","Marine Litter","Benthic Habitat (& assoc. biota): VMEs","S","O","C",1,NA,0.03,0.33,0.2,0.00198,0.0182381235734195
+"Small vessels - active demersal","Marine Litter","Benthic Habitat (& assoc. biota): non-VMEs","S","O","C",2,NA,0.03,0.33,0.2,0.00198,0.0182381235734195
+"Small vessels - active demersal","Marine Litter","Pelagic Habitats (& assoc. biota)","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Small vessels - active demersal","Marine Litter","Marine Mammals","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"Small vessels - active demersal","Marine Litter","Fish","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Small vessels - active demersal","Marine Litter","Elasmobranchs","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Small vessels - active demersal","Marine Litter","Reptiles","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"Small vessels - active demersal","Marine Litter","Seabirds","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"Small vessels - active demersal","Marine Litter","Cephalopods","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Small vessels - active demersal","Marine Litter","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - pelagic trawlers","Marine Litter","Benthic Habitat (& assoc. biota): VMEs","E","O","C",1,NA,0.01,0.33,0.2,0.00066,0.00607937452447318
+"Large vessels - pelagic trawlers","Marine Litter","Benthic Habitat (& assoc. biota): non-VMEs","S","O","C",2,NA,0.03,0.33,0.2,0.00198,0.0182381235734195
+"Large vessels - pelagic trawlers","Marine Litter","Pelagic Habitats (& assoc. biota)","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Large vessels - pelagic trawlers","Marine Litter","Marine Mammals","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"Large vessels - pelagic trawlers","Marine Litter","Fish","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Large vessels - pelagic trawlers","Marine Litter","Elasmobranchs","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Large vessels - pelagic trawlers","Marine Litter","Reptiles","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"Large vessels - pelagic trawlers","Marine Litter","Seabirds","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"Large vessels - pelagic trawlers","Marine Litter","Cephalopods","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Large vessels - pelagic trawlers","Marine Litter","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Marine Litter","Benthic Habitat (& assoc. biota): VMEs","S","O","C",1,NA,0.03,0.33,0.2,0.00198,0.0182381235734195
+"Large vessels - active demersal","Marine Litter","Benthic Habitat (& assoc. biota): non-VMEs","S","O","C",2,NA,0.03,0.33,0.2,0.00198,0.0182381235734195
+"Large vessels - active demersal","Marine Litter","Pelagic Habitats (& assoc. biota)","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Large vessels - active demersal","Marine Litter","Marine Mammals","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"Large vessels - active demersal","Marine Litter","Fish","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Large vessels - active demersal","Marine Litter","Elasmobranchs","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Large vessels - active demersal","Marine Litter","Reptiles","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"Large vessels - active demersal","Marine Litter","Seabirds","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"Large vessels - active demersal","Marine Litter","Cephalopods","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Large vessels - active demersal","Marine Litter","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - reduction fisheries","Marine Litter","Benthic Habitat (& assoc. biota): VMEs","E","O","C",1,NA,0.01,0.33,0.2,0.00066,0.00607937452447318
+"Large vessels - reduction fisheries","Marine Litter","Benthic Habitat (& assoc. biota): non-VMEs","S","O","C",2,NA,0.03,0.33,0.2,0.00198,0.0182381235734195
+"Large vessels - reduction fisheries","Marine Litter","Pelagic Habitats (& assoc. biota)","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Large vessels - reduction fisheries","Marine Litter","Marine Mammals","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"Large vessels - reduction fisheries","Marine Litter","Fish","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Large vessels - reduction fisheries","Marine Litter","Elasmobranchs","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Large vessels - reduction fisheries","Marine Litter","Reptiles","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"Large vessels - reduction fisheries","Marine Litter","Seabirds","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"Large vessels - reduction fisheries","Marine Litter","Cephalopods","L","O","L",1,NA,0.33,0.33,0.05,0.005445,0.0501548398269037
+"Large vessels - reduction fisheries","Marine Litter","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"passive pelagic","Introduction of Contaminating compounds","Benthic Habitat (& assoc. biota): VMEs","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"passive pelagic","Introduction of Contaminating compounds","Benthic Habitat (& assoc. biota): non-VMEs","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"passive pelagic","Introduction of Contaminating compounds","Pelagic Habitats (& assoc. biota)","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive pelagic","Introduction of Contaminating compounds","Marine Mammals","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive pelagic","Introduction of Contaminating compounds","Fish","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive pelagic","Introduction of Contaminating compounds","Elasmobranchs","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive pelagic","Introduction of Contaminating compounds","Reptiles","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive pelagic","Introduction of Contaminating compounds","Seabirds","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive pelagic","Introduction of Contaminating compounds","Cephalopods","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive pelagic","Introduction of Contaminating compounds","Food Web (D4)","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive demersal","Introduction of Contaminating compounds","Benthic Habitat (& assoc. biota): VMEs","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"passive demersal","Introduction of Contaminating compounds","Benthic Habitat (& assoc. biota): non-VMEs","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"passive demersal","Introduction of Contaminating compounds","Pelagic Habitats (& assoc. biota)","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive demersal","Introduction of Contaminating compounds","Marine Mammals","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive demersal","Introduction of Contaminating compounds","Fish","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive demersal","Introduction of Contaminating compounds","Elasmobranchs","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive demersal","Introduction of Contaminating compounds","Reptiles","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive demersal","Introduction of Contaminating compounds","Seabirds","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive demersal","Introduction of Contaminating compounds","Cephalopods","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive demersal","Introduction of Contaminating compounds","Food Web (D4)","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - pelagic trawlers","Introduction of Contaminating compounds","Benthic Habitat (& assoc. biota): VMEs","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"Small vessels - pelagic trawlers","Introduction of Contaminating compounds","Benthic Habitat (& assoc. biota): non-VMEs","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"Small vessels - pelagic trawlers","Introduction of Contaminating compounds","Pelagic Habitats (& assoc. biota)","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - pelagic trawlers","Introduction of Contaminating compounds","Marine Mammals","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - pelagic trawlers","Introduction of Contaminating compounds","Fish","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - pelagic trawlers","Introduction of Contaminating compounds","Elasmobranchs","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - pelagic trawlers","Introduction of Contaminating compounds","Reptiles","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - pelagic trawlers","Introduction of Contaminating compounds","Seabirds","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - pelagic trawlers","Introduction of Contaminating compounds","Cephalopods","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - pelagic trawlers","Introduction of Contaminating compounds","Food Web (D4)","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - active demersal","Introduction of Contaminating compounds","Benthic Habitat (& assoc. biota): VMEs","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"Small vessels - active demersal","Introduction of Contaminating compounds","Benthic Habitat (& assoc. biota): non-VMEs","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"Small vessels - active demersal","Introduction of Contaminating compounds","Pelagic Habitats (& assoc. biota)","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - active demersal","Introduction of Contaminating compounds","Marine Mammals","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - active demersal","Introduction of Contaminating compounds","Fish","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - active demersal","Introduction of Contaminating compounds","Elasmobranchs","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - active demersal","Introduction of Contaminating compounds","Reptiles","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - active demersal","Introduction of Contaminating compounds","Seabirds","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - active demersal","Introduction of Contaminating compounds","Cephalopods","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - active demersal","Introduction of Contaminating compounds","Food Web (D4)","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - pelagic trawlers","Introduction of Contaminating compounds","Benthic Habitat (& assoc. biota): VMEs","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"Large vessels - pelagic trawlers","Introduction of Contaminating compounds","Benthic Habitat (& assoc. biota): non-VMEs","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"Large vessels - pelagic trawlers","Introduction of Contaminating compounds","Pelagic Habitats (& assoc. biota)","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - pelagic trawlers","Introduction of Contaminating compounds","Marine Mammals","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - pelagic trawlers","Introduction of Contaminating compounds","Fish","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - pelagic trawlers","Introduction of Contaminating compounds","Elasmobranchs","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - pelagic trawlers","Introduction of Contaminating compounds","Reptiles","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - pelagic trawlers","Introduction of Contaminating compounds","Seabirds","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - pelagic trawlers","Introduction of Contaminating compounds","Cephalopods","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - pelagic trawlers","Introduction of Contaminating compounds","Food Web (D4)","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - active demersal","Introduction of Contaminating compounds","Benthic Habitat (& assoc. biota): VMEs","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"Large vessels - active demersal","Introduction of Contaminating compounds","Benthic Habitat (& assoc. biota): non-VMEs","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"Large vessels - active demersal","Introduction of Contaminating compounds","Pelagic Habitats (& assoc. biota)","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - active demersal","Introduction of Contaminating compounds","Marine Mammals","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - active demersal","Introduction of Contaminating compounds","Fish","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - active demersal","Introduction of Contaminating compounds","Elasmobranchs","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - active demersal","Introduction of Contaminating compounds","Reptiles","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - active demersal","Introduction of Contaminating compounds","Seabirds","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - active demersal","Introduction of Contaminating compounds","Cephalopods","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - active demersal","Introduction of Contaminating compounds","Food Web (D4)","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - reduction fisheries","Introduction of Contaminating compounds","Benthic Habitat (& assoc. biota): VMEs","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"Large vessels - reduction fisheries","Introduction of Contaminating compounds","Benthic Habitat (& assoc. biota): non-VMEs","E","R","L",1,NA,0.01,0.08,0.05,4e-05,0.000368446940877162
+"Large vessels - reduction fisheries","Introduction of Contaminating compounds","Pelagic Habitats (& assoc. biota)","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - reduction fisheries","Introduction of Contaminating compounds","Marine Mammals","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - reduction fisheries","Introduction of Contaminating compounds","Fish","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - reduction fisheries","Introduction of Contaminating compounds","Elasmobranchs","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - reduction fisheries","Introduction of Contaminating compounds","Reptiles","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - reduction fisheries","Introduction of Contaminating compounds","Seabirds","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - reduction fisheries","Introduction of Contaminating compounds","Cephalopods","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - reduction fisheries","Introduction of Contaminating compounds","Food Web (D4)","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - pelagic trawlers","Invasive species","Benthic Habitat (& assoc. biota): VMEs","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - pelagic trawlers","Invasive species","Benthic Habitat (& assoc. biota): non-VMEs","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - pelagic trawlers","Invasive species","Pelagic Habitats (& assoc. biota)","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - pelagic trawlers","Invasive species","Marine Mammals","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - pelagic trawlers","Invasive species","Fish","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - pelagic trawlers","Invasive species","Elasmobranchs","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - pelagic trawlers","Invasive species","Reptiles","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - pelagic trawlers","Invasive species","Seabirds","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - pelagic trawlers","Invasive species","Cephalopods","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - pelagic trawlers","Invasive species","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Invasive species","Benthic Habitat (& assoc. biota): VMEs","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Invasive species","Benthic Habitat (& assoc. biota): non-VMEs","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Invasive species","Pelagic Habitats (& assoc. biota)","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Invasive species","Marine Mammals","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Invasive species","Fish","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Invasive species","Elasmobranchs","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Invasive species","Reptiles","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Invasive species","Seabirds","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Invasive species","Cephalopods","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - active demersal","Invasive species","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - reduction fisheries","Invasive species","Benthic Habitat (& assoc. biota): VMEs","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - reduction fisheries","Invasive species","Benthic Habitat (& assoc. biota): non-VMEs","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - reduction fisheries","Invasive species","Pelagic Habitats (& assoc. biota)","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - reduction fisheries","Invasive species","Marine Mammals","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - reduction fisheries","Invasive species","Fish","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - reduction fisheries","Invasive species","Elasmobranchs","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - reduction fisheries","Invasive species","Reptiles","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - reduction fisheries","Invasive species","Seabirds","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - reduction fisheries","Invasive species","Cephalopods","NO",NA,NA,1,NA,0,0,0,0,0
+"Large vessels - reduction fisheries","Invasive species","Food Web (D4)","NO",NA,NA,1,NA,0,0,0,0,0
+"passive pelagic","Species Extraction","Benthic Habitat (& assoc. biota): VMEs","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive pelagic","Species Extraction","Benthic Habitat (& assoc. biota): non-VMEs","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive pelagic","Species Extraction","Pelagic Habitats (& assoc. biota)","S","C","A",1,NA,0.03,0.67,1,0.0201,0.185144587790774
+"passive pelagic","Species Extraction","Marine Mammals","S","O","A",1,"it includes bycatch",0.03,0.33,1,0.0099,0.0911906178670976
+"passive pelagic","Species Extraction","Fish","L","C","C",2,NA,0.33,0.67,0.2,0.04422,0.407318093139703
+"passive pelagic","Species Extraction","Elasmobranchs","L","C","C",2,NA,0.33,0.67,0.2,0.04422,0.407318093139703
+"passive pelagic","Species Extraction","Reptiles","S","O","A",1,"it includes bycatch",0.03,0.33,1,0.0099,0.0911906178670976
+"passive pelagic","Species Extraction","Seabirds","S","O","A",1,"it includes bycatch",0.03,0.33,1,0.0099,0.0911906178670976
+"passive pelagic","Species Extraction","Cephalopods","L","C","C",2,NA,0.33,0.67,0.2,0.04422,0.407318093139703
+"passive pelagic","Species Extraction","Food Web (D4)","L","C","C",2,NA,0.33,0.67,0.2,0.04422,0.407318093139703
+"passive demersal","Species Extraction","Benthic Habitat (& assoc. biota): VMEs","S","R","A",1,NA,0.03,0.08,1,0.0024,0.0221068164526297
+"passive demersal","Species Extraction","Benthic Habitat (& assoc. biota): non-VMEs","S","R","A",1,NA,0.03,0.08,1,0.0024,0.0221068164526297
+"passive demersal","Species Extraction","Pelagic Habitats (& assoc. biota)","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive demersal","Species Extraction","Marine Mammals","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive demersal","Species Extraction","Fish","L","C","C",2,NA,0.33,0.67,0.2,0.04422,0.407318093139703
+"passive demersal","Species Extraction","Elasmobranchs","L","C","C",2,NA,0.33,0.67,0.2,0.04422,0.407318093139703
+"passive demersal","Species Extraction","Reptiles","S","R","C",1,NA,0.03,0.08,0.2,0.00048,0.00442136329052594
+"passive demersal","Species Extraction","Seabirds","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"passive demersal","Species Extraction","Cephalopods","L","C","C",2,NA,0.33,0.67,0.2,0.04422,0.407318093139703
+"passive demersal","Species Extraction","Food Web (D4)","L","C","C",2,NA,0.33,0.67,0.2,0.04422,0.407318093139703
+"Small vessels - pelagic trawlers","Species Extraction","Benthic Habitat (& assoc. biota): VMEs","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - pelagic trawlers","Species Extraction","Benthic Habitat (& assoc. biota): non-VMEs","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - pelagic trawlers","Species Extraction","Pelagic Habitats (& assoc. biota)","WP","C","A",1,NA,0.67,0.67,1,0.4489,4.13489579399395
+"Small vessels - pelagic trawlers","Species Extraction","Marine Mammals","S","R","A",1,NA,0.03,0.08,1,0.0024,0.0221068164526297
+"Small vessels - pelagic trawlers","Species Extraction","Fish","WP","C","A",2,NA,0.67,0.67,1,0.4489,4.13489579399395
+"Small vessels - pelagic trawlers","Species Extraction","Elasmobranchs","L","C","A",2,NA,0.33,0.67,1,0.2211,2.03659046569851
+"Small vessels - pelagic trawlers","Species Extraction","Reptiles","S","R","A",1,NA,0.03,0.08,1,0.0024,0.0221068164526297
+"Small vessels - pelagic trawlers","Species Extraction","Seabirds","S","R","C",1,NA,0.03,0.08,0.2,0.00048,0.00442136329052594
+"Small vessels - pelagic trawlers","Species Extraction","Cephalopods","WP","C","A",2,NA,0.67,0.67,1,0.4489,4.13489579399395
+"Small vessels - pelagic trawlers","Species Extraction","Food Web (D4)","WP","C","C",2,NA,0.67,0.67,0.2,0.08978,0.826979158798791
+"Small vessels - active demersal","Species Extraction","Benthic Habitat (& assoc. biota): VMEs","S","R","A",1,NA,0.03,0.08,1,0.0024,0.0221068164526297
+"Small vessels - active demersal","Species Extraction","Benthic Habitat (& assoc. biota): non-VMEs","WP","C","A",1,NA,0.67,0.67,1,0.4489,4.13489579399395
+"Small vessels - active demersal","Species Extraction","Pelagic Habitats (& assoc. biota)","L","O","C",1,NA,0.33,0.33,0.2,0.02178,0.200619359307615
+"Small vessels - active demersal","Species Extraction","Marine Mammals","L","R","A",1,"pressure includes bycatch",0.33,0.08,1,0.0264,0.243174980978927
+"Small vessels - active demersal","Species Extraction","Fish","L","C","A",2,"pressure includes bycatch",0.33,0.67,1,0.2211,2.03659046569851
+"Small vessels - active demersal","Species Extraction","Elasmobranchs","L","C","A",2,"pressure includes bycatch",0.33,0.67,1,0.2211,2.03659046569851
+"Small vessels - active demersal","Species Extraction","Reptiles","S","R","A",1,"pressure includes bycatch",0.03,0.08,1,0.0024,0.0221068164526297
+"Small vessels - active demersal","Species Extraction","Seabirds","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Small vessels - active demersal","Species Extraction","Cephalopods","WP","C","A",2,NA,0.67,0.67,1,0.4489,4.13489579399395
+"Small vessels - active demersal","Species Extraction","Food Web (D4)","WP","C","C",2,NA,0.67,0.67,0.2,0.08978,0.826979158798791
+"Large vessels - pelagic trawlers","Species Extraction","Benthic Habitat (& assoc. biota): VMEs","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - pelagic trawlers","Species Extraction","Benthic Habitat (& assoc. biota): non-VMEs","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - pelagic trawlers","Species Extraction","Pelagic Habitats (& assoc. biota)","WP","C","A",1,NA,0.67,0.67,1,0.4489,4.13489579399395
+"Large vessels - pelagic trawlers","Species Extraction","Marine Mammals","L","R","A",1,NA,0.33,0.08,1,0.0264,0.243174980978927
+"Large vessels - pelagic trawlers","Species Extraction","Fish","WP","C","A",2,NA,0.67,0.67,1,0.4489,4.13489579399395
+"Large vessels - pelagic trawlers","Species Extraction","Elasmobranchs","WP","C","A",2,NA,0.67,0.67,1,0.4489,4.13489579399395
+"Large vessels - pelagic trawlers","Species Extraction","Reptiles","L","R","A",1,NA,0.33,0.08,1,0.0264,0.243174980978927
+"Large vessels - pelagic trawlers","Species Extraction","Seabirds","L","R","L",1,NA,0.33,0.08,0.05,0.00132,0.0121587490489464
+"Large vessels - pelagic trawlers","Species Extraction","Cephalopods","WP","C","A",2,NA,0.67,0.67,1,0.4489,4.13489579399395
+"Large vessels - pelagic trawlers","Species Extraction","Food Web (D4)","WP","C","C",2,NA,0.67,0.67,0.2,0.08978,0.826979158798791
+"Large vessels - active demersal","Species Extraction","Benthic Habitat (& assoc. biota): VMEs","S","R","A",1,NA,0.03,0.08,1,0.0024,0.0221068164526297
+"Large vessels - active demersal","Species Extraction","Benthic Habitat (& assoc. biota): non-VMEs","WP","C","A",1,NA,0.67,0.67,1,0.4489,4.13489579399395
+"Large vessels - active demersal","Species Extraction","Pelagic Habitats (& assoc. biota)","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - active demersal","Species Extraction","Marine Mammals","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - active demersal","Species Extraction","Fish","WP","C","A",2,NA,0.67,0.67,1,0.4489,4.13489579399395
+"Large vessels - active demersal","Species Extraction","Elasmobranchs","WP","C","A",2,NA,0.67,0.67,1,0.4489,4.13489579399395
+"Large vessels - active demersal","Species Extraction","Reptiles","S","R","A",1,NA,0.03,0.08,1,0.0024,0.0221068164526297
+"Large vessels - active demersal","Species Extraction","Seabirds","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - active demersal","Species Extraction","Cephalopods","WP","C","A",2,NA,0.67,0.67,1,0.4489,4.13489579399395
+"Large vessels - active demersal","Species Extraction","Food Web (D4)","WP","C","C",2,NA,0.67,0.67,0.2,0.08978,0.826979158798791
+"Large vessels - reduction fisheries","Species Extraction","Benthic Habitat (& assoc. biota): VMEs","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - reduction fisheries","Species Extraction","Benthic Habitat (& assoc. biota): non-VMEs","S","C","L",1,NA,0.03,0.67,0.05,0.001005,0.0092572293895387
+"Large vessels - reduction fisheries","Species Extraction","Pelagic Habitats (& assoc. biota)","WP","C","A",1,NA,0.67,0.67,1,0.4489,4.13489579399395
+"Large vessels - reduction fisheries","Species Extraction","Marine Mammals","S","C","A",1,NA,0.03,0.67,1,0.0201,0.185144587790774
+"Large vessels - reduction fisheries","Species Extraction","Fish","WP","C","C",2,NA,0.67,0.67,0.2,0.08978,0.826979158798791
+"Large vessels - reduction fisheries","Species Extraction","Elasmobranchs","WP","C","C",2,NA,0.67,0.67,0.2,0.08978,0.826979158798791
+"Large vessels - reduction fisheries","Species Extraction","Reptiles","S","R","A",1,NA,0.03,0.08,1,0.0024,0.0221068164526297
+"Large vessels - reduction fisheries","Species Extraction","Seabirds","S","R","L",1,NA,0.03,0.08,0.05,0.00012,0.00110534082263149
+"Large vessels - reduction fisheries","Species Extraction","Cephalopods","WP","C","C",2,NA,0.67,0.67,0.2,0.08978,0.826979158798791
+"Large vessels - reduction fisheries","Species Extraction","Food Web (D4)","WP","C","C",2,NA,0.67,0.67,0.2,0.08978,0.826979158798791

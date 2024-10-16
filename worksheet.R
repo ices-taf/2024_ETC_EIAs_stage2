@@ -19,7 +19,9 @@ data <-
     ranges,
     function(range) {
       x <- read_sheet(glue(base), range = range)
-      write.taf(x, file = paste0(gsub(" ", "", range), ".csv"), quote = TRUE)
+      fname <- paste0(gsub(" ", "", range), ".csv")
+      write.taf(x, file = taf.boot.path("initial", "data", "google_sheets", fname), quote = TRUE)
       x
     },
-    simplify = FALSE)
+    simplify = FALSE
+  )
