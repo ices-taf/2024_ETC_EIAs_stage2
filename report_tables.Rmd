@@ -1,0 +1,57 @@
+---
+output:
+  word_document:
+    toc: false
+    keep_md: false
+---
+
+```{r libraries, include=FALSE}
+library(knitr)
+library(pander)
+```
+
+```{r chunk_setup, include=FALSE}
+# CHUNK SETUPS #################################################################
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE,
+                      message=FALSE, results = 'asis')
+```
+
+```{r pander_settings, include = FALSE}
+# PANDER OPTIONS ##############################################################
+panderOptions('table.split.table', Inf)
+panderOptions('keep.trailing.zeros', TRUE)
+panderOptions('table.alignment.default', "center")
+```
+
+
+```{r NEA-fisheries}
+risk_table <- read.taf("report/Fisheries-NEA.csv")
+
+# Output table
+#pander(style_table1(catch_table), missing = "-")
+pander(risk_table, missing = "-")
+```
+
+```{r Med-fisheries}
+risk_table <- read.taf("report/Fisheries-Med.csv")
+
+# Output table
+#pander(style_table1(catch_table), missing = "-")
+pander(risk_table, missing = "-")
+```
+
+```{r NEA-aqua}
+risk_table <- read.taf("report/Aquaculture-NEA.csv")
+
+# Output table
+#pander(style_table1(catch_table), missing = "-")
+pander(risk_table, missing = "-")
+```
+
+```{r Med-aqua}
+risk_table <- read.taf("report/Aquaculture-Med.csv")
+
+# Output table
+#pander(style_table1(catch_table), missing = "-")
+pander(risk_table, missing = "-")
+```

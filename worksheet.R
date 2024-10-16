@@ -25,3 +25,6 @@ data <-
     },
     simplify = FALSE
   )
+
+
+cp("../2024_ETC_EIAs_stage1/initial/data/google_sheets", "data/google_sheets")

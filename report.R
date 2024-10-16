@@ -11,6 +11,7 @@ mkdir("report")
 # Load df -----------
 all_data <- readRDS("data/all_data.rds")
 
+
 sankeys <- list()
 
 # tab <- "Fisheries-NEA"
@@ -23,9 +24,15 @@ for (tab in names(all_data)) {
   setwd("../..")
 
   sankeys[[tab]] <- p
+
+  # write out to csv files
+  write.taf(data[, -c(7:9, 11:12)], file = glue("report/{tab}.csv"), quote = TRUE)
 }
 
 save(sankeys, file = "report/sankeys.rds")
 
 # combine into a single html report
 rmarkdown::render("report.Rmd", output_file = "report.html", output_dir = "report")
+
+# make tables
+rmarkdown::render("report_tables.Rmd", output_dir = "report")
