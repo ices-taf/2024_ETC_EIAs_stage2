@@ -35,4 +35,4 @@ save(sankeys, file = "report/sankeys.rds")
 rmarkdown::render("report.Rmd", output_file = "report.html", output_dir = "report")
 
 # make tables
-rmarkdown::render("report_tables.Rmd", output_dir = "report")
+rmarkdown::render("report_tables_stage2.Rmd", output_dir = "report")
