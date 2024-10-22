@@ -3,6 +3,7 @@ output:
   word_document:
     toc: false
     keep_md: false
+    reference_docx: boot/data/reportTemplate.docx
 ---
 
 ```{r libraries, include=FALSE}
@@ -19,13 +20,17 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE,
 ```{r pander_settings, include = FALSE}
 # PANDER OPTIONS ##############################################################
 panderOptions('table.split.table', Inf)
-panderOptions('keep.trailing.zeros', TRUE)
+panderOptions('keep.trailing.zeros', FALSE)
 panderOptions('table.alignment.default', "center")
 ```
 
 
+
 ```{r NEA-fisheries}
 risk_table <- read.taf("report/Fisheries-NEA.csv")
+
+# set caption
+set.caption("Table 1: Risk assessment for fisheries in the NEA region")
 
 # Output table
 #pander(style_table1(catch_table), missing = "-")
@@ -35,6 +40,9 @@ pander(risk_table, missing = "-")
 ```{r Med-fisheries}
 risk_table <- read.taf("report/Fisheries-Med.csv")
 
+# set caption
+set.caption("Table 2: Risk assessment for fisheries in the Med region")
+
 # Output table
 #pander(style_table1(catch_table), missing = "-")
 pander(risk_table, missing = "-")
@@ -43,6 +51,9 @@ pander(risk_table, missing = "-")
 ```{r NEA-aqua}
 risk_table <- read.taf("report/Aquaculture-NEA.csv")
 
+# set caption
+set.caption("Table 3: Risk assessment for aquaculture in the NEA region")
+
 # Output table
 #pander(style_table1(catch_table), missing = "-")
 pander(risk_table, missing = "-")
@@ -50,6 +61,9 @@ pander(risk_table, missing = "-")
 
 ```{r Med-aqua}
 risk_table <- read.taf("report/Aquaculture-Med.csv")
+
+# set caption
+set.caption("Table 4: Risk assessment for aquaculture in the Med region")
 
 # Output table
 #pander(style_table1(catch_table), missing = "-")
